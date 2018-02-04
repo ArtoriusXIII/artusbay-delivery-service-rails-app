@@ -16,7 +16,9 @@ $dark-ovelray: rgba(055, 056, 051, 0.7);
 body{
     background-color: $bg-color;
     color: $font-color;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Sedgwick Ave', cursive;
+ 
 }
 //*NAVBAR*//
 .navbar{
@@ -39,7 +41,7 @@ header#home-section{
     width: 100%;
     min-height: 700px;
       .home-inner{
-        font-family: 'GothamRounded-Light', sans-serif;
+        //font-family: 'GothamRounded-Light', sans-serif;
         font-size: 15px;
          padding-top: 6rem;
           .wel{
@@ -50,14 +52,14 @@ header#home-section{
       color: #fff;
       font-size: 40px;
       padding-bottom: 17px;
-      font-family: 'caecilia_lightregular', sans-serif;
+      //font-family: 'caecilia_lightregular', sans-serif;
       font-weight: normal;
       padding-top: 3rem;
       }
       h3.home-section-subheading {
       margin-bottom: auto;
       text-shadow: 2px 2px 5px #555;
-      font-family: -webkit-body;
+      //font-family: -webkit-body;
       color: #f1f5f7;
       font-size: 23px;
       line-height: 35px;
@@ -95,7 +97,7 @@ section#about-head-section{
     display: flex;
     align-items: center;
     .container{
-      font-family: 'GothamRounded-Light', sans-serif;
+      //font-family: 'GothamRounded-Light', sans-serif;
       font-size: 15px;
     }
   }
@@ -115,7 +117,7 @@ section#about-head-section{
       color: #fff;
       font-size: 45px;
       padding-bottom: 17px;
-      font-family: 'caecilia_lightregular', sans-serif;
+      //font-family: 'caecilia_lightregular', sans-serif;
       font-weight: normal;
       font-size: 45px;
       text-align: center;
@@ -127,7 +129,7 @@ section#about-head-section{
       margin-top: 1rem;
       #text-transform: uppercase;
       text-shadow: 0px 2px 3px #555;
-      font-family: -webkit-body;
+      //font-family: -webkit-body;
       color: #A1A4A5;
       font-size: 22.5px;
       line-height: 32px;
@@ -147,7 +149,7 @@ section#service-head-section{
     margin-bottom: 15px;
     color: #d4dcd3;
     padding-bottom: 17px;
-    font-family: 'caecilia_lightregular', sans-serif;
+    //font-family: 'caecilia_lightregular', sans-serif;
     font-weight: 800;
     text-shadow: 0px 2px 3px #555;
     font-family: inherit;
@@ -208,7 +210,7 @@ section#explore-head-section {
     h1 {
     color: #d4dcd3;
     padding-bottom: 17px;
-    font-family: 'caecilia_lightregular', sans-serif;
+    //font-family: 'caecilia_lightregular', sans-serif;
     font-weight: normal;
     text-align: center;
     margin: 40px 0;
@@ -220,7 +222,7 @@ section#explore-head-section {
     margin-top: 1rem;
     #text-transform: uppercase;
     text-shadow: 0px 2px 3px #555;
-    font-family: -webkit-body;
+    //font-family: -webkit-body;
     #color: #A1A4A5;
     font-size: 25px;
     line-height: 32px;
@@ -380,7 +382,7 @@ section#contact-head-section {
     }
     h3.section-subheading{
     color: #FFF3CE;
-    font-family: 'caecilia_lightregular', sans-serif;
+    //font-family: 'caecilia_lightregular', sans-serif;
     font-weight: 400;
     text-align: center;
     margin: 1rem 0;
